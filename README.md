@@ -6,14 +6,6 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Freelance-Available-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=for-the-badge"/>
-
-<img src="https://komarev.com/ghpvc/?username=rishirithesh&style=for-the-badge&color=2563EB"/>
-
 </p>
 
 <p align="center">
