@@ -29,57 +29,32 @@
 
 # 👋 About Me
 
-🎓 3rd Year Undergraduate at **SSN College of Engineering**
+🎓 Engineering Student from SSN College of Engineering, Kalavakkam
 
 📍 Working from **Chennai, Tamil Nadu**
 
 🏡 Based out of **Kasaragod, Kerala**
 
-🤖 Building **Agentic AI Systems**, **Multi-Agent Workflows**, and **RAG Applications**
-
-⚡ Freelancer focused on **AI Automation**, **Backend Development**, and **Process Optimization**
-
-🚀 Interested in **Entrepreneurship**, **AI Products**, and **Open Source**
+🚀 Exploring **Entrepreneurship**, **AI Products**, and **Mutli-Agent Architectures**
 
 ---
-
-# 🚀 Currently Building
-
-### 🤖 Agentic AI Systems
-
-* Multi-Agent Architectures
-* Autonomous AI Workflows
-* AI Evaluation Pipelines
-* AI Recruitment Automation
-* Open Source LLM Integrations
-
-### 🧠 AI Engineering
-
-* LangChain Applications
-* RAG Systems
-* Ollama Deployments
-* Hugging Face Models
-* LLM Evaluation Frameworks
-
-### ⚙️ Backend Engineering
-
-* REST APIs
-* Database Design
-* SQL Optimization
-* Data Pipelines
-* Workflow Automation
-
----
-
 # 🛠️ Tech Stack# ⚡ Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,sqlite,redis,git,github,linux,bash,docker,kubernetes,aws,postman,vscode,selenium,tensorflow,pytorch&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,sqlite,redis,git,github,linux,bash,docker,kubernetes,aws,postman,vscode,selenium,tensorflow,pytorch,gcp&perline=8"/>
 </p>
 
 ---
 
 # 🌟 Featured Projects
+
+## 🏢 SQL Data Warehouse Project
+
+Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, and reporting infrastructure.
+
+🔗 https://github.com/rishirithesh/sql-data-warehouse-project
+
+---
 
 ## 🎥 Candidate Interview Video Score Automation
 
@@ -87,13 +62,6 @@ AI-powered interview evaluation system leveraging open-source LLMs, video proces
 
 🔗 https://github.com/rishirithesh/Intern-Project-CandidateInterviewVideoScoreAutomation
 
----
-
-## 🏢 SQL Data Warehouse Project
-
-Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, and reporting infrastructure.
-
-🔗 https://github.com/rishirithesh/sql-data-warehouse-project
 
 ---
 
@@ -166,10 +134,11 @@ College event management platform developed for handling large-scale event opera
 * RAG Systems
 * Freelance Consulting
 * Startup Collaborations
+* Music Production and Composition
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Why Automation?
 
 > I automate things because clicking the same button twice feels inefficient.
 
@@ -182,39 +151,3 @@ College event management platform developed for handling large-scale event opera
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F172A,100:2563EB"/>
-
-#
-
-### Snake Workflow (`.github/workflows/snake.yml`)
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rishirithesh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
