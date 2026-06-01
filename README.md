@@ -72,6 +72,24 @@ College event management platform developed for handling large-scale event opera
 
 ---
 
+# 🏆 Hackathon Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🥇%20Winner-VIT%20Code2Create-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏅%20Finalist-IITM%20Shaastra'26-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏅%20Finalist-Odoo%20x%20NMIT%20Karnataka-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏅%20Finalist-Thoothukudi%20Police%20Modus%20Mapping%20Hackathon-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/✅%20Qualified-Smart%20India%20Hackathon-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
