@@ -38,7 +38,7 @@
 🚀 Exploring **Entrepreneurship**, **AI Products**, and **Mutli-Agent Architectures**
 
 ---
-# 🛠️ Tech Stack# ⚡ Technologies
+#⚡ Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,sqlite,redis,git,github,linux,bash,docker,kubernetes,aws,postman,vscode,selenium,tensorflow,pytorch,gcp&perline=8"/>
@@ -72,21 +72,82 @@ College event management platform developed for handling large-scale event opera
 
 ---
 
+
 # 🏆 Hackathon Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/🥇%20Winner-VIT%20Code2Create-gold?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/🥇_Winner-VIT_Code2Create-gold?style=for-the-badge"/>
+</a>
 
-<img src="https://img.shields.io/badge/🏅%20Finalist-IITM%20Shaastra'26-blue?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/🏅_Finalist-IITM_Shaastra'26-2563EB?style=for-the-badge"/>
+</a>
 
-<img src="https://img.shields.io/badge/🏅%20Finalist-Odoo%20x%20NMIT%20Karnataka-green?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/🏅_Finalist-Odoo_×_NMIT-16A34A?style=for-the-badge"/>
+</a>
 
-<img src="https://img.shields.io/badge/🏅%20Finalist-Thoothukudi%20Police%20Modus%20Mapping%20Hackathon-green?style=for-the-badge"/>
+<a href="#">
+<img src="https://img.shields.io/badge/🚀_Qualified-Smart_India_Hackathon-F97316?style=for-the-badge"/>
+</a>
 
-<img src="https://img.shields.io/badge/✅%20Qualified-Smart%20India%20Hackathon-orange?style=for-the-badge"/>
+</div>
 
-</p>
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥇 VIT Vellore Code2Create
+**Winner**
+
+Built and presented an innovative software solution integrating with Music, securing **1st place** among competing teams.
+
+</td>
+
+<td width="50%">
+
+### 🏅 IIT Madras Shaastra'26
+**Finalist**
+
+Selected among the top-performing teams to compete in the final round of one of India's premier student hackathons at IIT Madaras's Tech Symposium - Shaastra.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏅 Odoo × NMIT Hackathon
+**Finalist**
+
+Developed and demonstrated a production-ready solution, advancing to the final stage.
+
+</td>
+
+<td width="50%">
+
+### 🚀 Smart India Hackathon
+**Qualified Team**
+
+Successfully cleared institutional and preliminary evaluations for participation in SIH.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishirithesh&theme=algolia&no-frame=true&row=1&column=4"/>
+
+</div>
 
 ---
 
