@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,100:2563EB&text=Rishi%20Rithesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Developer%20•%20Backend%20Engineer%20•%20Automation%20Builder&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=900\&lines=Building+Agentic+AI+Systems;Multi-Agent+Workflow+Developer;Backend+Developer;RAG+Systems+Builder;AI+Automation+Engineer;Freelance%20Music%20Producer;Entrepreneur%20in%20the&20making)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=900\&lines=Building+Agentic+AI+Systems;Multi-Agent+Workflow+Developer;Backend+Developer;RAG+Systems+Builder;AI+Automation+Engineer;Freelance%20Music%20Producer;Entrepreneur%20in%20the%20making)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -133,13 +133,12 @@ Successfully cleared institutional and preliminary evaluations for participation
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishirithesh&theme=algolia&no-frame=true&row=1&column=4"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rishirithesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4"
+    alt="GitHub Trophy"
+  />
+</p>
 
 ---
 
