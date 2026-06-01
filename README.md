@@ -30,7 +30,7 @@
 🚀 Exploring **Entrepreneurship**, **AI Products**, and **Mutli-Agent Architectures**
 
 ---
-#⚡ Technologies
+# ⚡ Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,sqlite,redis,git,github,linux,bash,docker,kubernetes,aws,postman,vscode,selenium,tensorflow,pytorch,gcp&perline=8"/>
