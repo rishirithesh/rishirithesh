@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Rishi%20Rithesh&fontAlign=30&fontSize=30&desc=R%20theme&descAlign=60&descAlignY=50&theme=tokyonight)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Rishi%20Rithesh&fontAlign=30&fontSize=30&desc=Agentic%20AI%20&Backend%20Developer&descAlign=60&descAlignY=50&theme=tokyonight)
 
 <!--
 **rishirithesh/rishirithesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
