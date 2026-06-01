@@ -206,8 +206,6 @@ Successfully cleared institutional and preliminary evaluations for participation
 
 ---
 
-# ⚡ Why Automation?
-
 > I automate things because clicking the same button twice feels inefficient.
 
 ---
