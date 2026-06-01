@@ -71,46 +71,11 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack# ⚡ Technologies
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,mongodb,sqlite,redis,git,github,linux,bash,docker,kubernetes,aws,postman,vscode,selenium,tensorflow,pytorch&perline=8"/>
 </p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-* Agentic AI
-* LangChain
-* Ollama
-* Hugging Face
-* RAG Systems
-* Prompt Engineering
-* Multi-Agent Systems
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws"/>
-</p>
-
-### Automation
-
-* Playwright
-* Browser Automation
-* Workflow Automation
-* Data Extraction Pipelines
 
 ---
 
