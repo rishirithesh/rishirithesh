@@ -156,19 +156,9 @@ Successfully cleared institutional and preliminary evaluations for participation
 # 📈 Contribution Graph
 
 <div align="center">
-
+<p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishirithesh&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rishirithesh/rishirithesh/output/github-contribution-grid-snake-dark.svg"/>
-
+</p>
 </div>
 
 ---
