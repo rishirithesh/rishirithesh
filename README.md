@@ -46,9 +46,9 @@
 
 ---
 
-# 🌟 Featured Projects
+# Top Projects
 
-## 🏢 SQL Data Warehouse Project
+## 1. SQL Data Warehouse Project
 
 Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, and reporting infrastructure.
 
@@ -56,16 +56,15 @@ Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, 
 
 ---
 
-## 🎥 Candidate Interview Video Score Automation
+## 2. Candidate Interview Video Score Automation - Intern Project @Agilisium
 
 AI-powered interview evaluation system leveraging open-source LLMs, video processing, candidate scoring, and recruitment automation.
 
 🔗 https://github.com/rishirithesh/Intern-Project-CandidateInterviewVideoScoreAutomation
 
-
 ---
 
-## 🎉 MELA
+## 3. SSN Lakshya - Mela
 
 College event management platform developed for handling large-scale event operations and registrations.
 
@@ -90,16 +89,6 @@ College event management platform developed for handling large-scale event opera
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishirithesh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievement Showcase
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishirithesh&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
