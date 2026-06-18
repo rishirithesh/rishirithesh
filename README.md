@@ -64,6 +64,12 @@ College event management platform developed for handling large-scale event opera
 
 ---
 
+## 4. Agilisium Training LMS - Intern Project @Agilisium
+
+Training and Learning platform to function inside the company - Agilisium LMS
+
+🔗 https://github.com/rishirithesh/agilisium-lms
+
 
 # 🏆 Hackathon Achievements
 
