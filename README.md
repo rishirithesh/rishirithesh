@@ -143,16 +143,6 @@ Successfully cleared institutional and preliminary evaluations for participation
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishirithesh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
