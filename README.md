@@ -48,11 +48,11 @@ Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, 
 
 ---
 
-## 2. Candidate Interview Video Score Automation - Intern Project @Agilisium
+## 2. Video Score Automation - Intern Project @Agilisium
 
 AI-powered interview evaluation system leveraging open-source LLMs, video processing, candidate scoring, and recruitment automation.
 
-🔗 https://github.com/rishirithesh/Intern-Project-CandidateInterviewVideoScoreAutomation
+🔗 https://github.com/rishirithesh/Vid-Eval
 
 ---
 
