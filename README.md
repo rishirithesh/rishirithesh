@@ -143,12 +143,6 @@ Successfully cleared institutional and preliminary evaluations for participation
 
 ---
 
-<p align="center">
-  <img src="game.gif" width="95%" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
