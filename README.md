@@ -1,8 +1,6 @@
 # <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,100:2563EB&text=Rishi%20Rithesh&fontSize=60&fontColor=ffffff"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=900\&lines=Building+Agentic+AI+Systems;Multi-Agent+Workflow+Developer;Backend+Developer;RAG+Systems+Builder;AI+Automation+Engineer;Freelance%20Music%20Producer;Entrepreneur%20in%20the%20making)](https://git.io/typing-svg)
+<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:2563EB&text=Rishi%20Rithesh&fontSize=60&fontColor=ffffff"/>
 
 <p align="center">
 
