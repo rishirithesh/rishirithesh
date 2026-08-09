@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:2563EB&text=Rishi%20Rithesh&fontSize=60&fontColor=ffffff&algin=center"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0000,100:FF0000&text=Rishi%20Rithesh&fontSize=60&fontColor=ffffff&algin=center"/>
 
 <p align="center">
 
