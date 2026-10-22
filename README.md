@@ -38,15 +38,7 @@
 
 # Top Projects
 
-## 1. SQL Data Warehouse Project
-
-Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, and reporting infrastructure.
-
-🔗 https://github.com/rishirithesh/sql-data-warehouse-project
-
----
-
-## 2. Video Score Automation - Intern Project @Agilisium
+## 1. Video Score Automation - Intern Project @Agilisium
 
 AI-powered interview evaluation system leveraging open-source LLMs, video processing, candidate scoring, and recruitment automation.
 
@@ -54,7 +46,7 @@ AI-powered interview evaluation system leveraging open-source LLMs, video proces
 
 ---
 
-## 3. SSN Lakshya - Mela
+## 2. SSN Lakshya - Mela
 
 College event management platform developed for handling large-scale event operations and registrations.
 
@@ -62,11 +54,19 @@ College event management platform developed for handling large-scale event opera
 
 ---
 
-## 4. Agilisium Training LMS - Intern Project @Agilisium
+## 3. SQL Data Warehouse Project
 
-Training and Learning platform to function inside the company - Agilisium LMS
+Built an end-to-end SQL data warehouse with ETL pipelines, analytics workflows, and reporting infrastructure.
 
-🔗 https://github.com/rishirithesh/agilisium-lms
+🔗 https://github.com/rishirithesh/sql-data-warehouse-project
+
+---
+
+## 4. Meanwhile - Competitive Typing Platform
+
+Multiplayer Typing Race Platform build with React and Node.JS Server
+
+🔗 https://github.com/rishirithesh/meanwhile
 
 
 ---
