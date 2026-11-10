@@ -139,38 +139,12 @@ Successfully cleared institutional and preliminary evaluations for participation
 </tr>
 </table>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishirithesh&theme=tokyo-night&hide_border=true"/>
-</p>
-</div>
-
----
-
-# 🤝 Available For
-
-* AI Automation Projects
-* Agentic AI Development
-* Backend Development
-* Playwright Automation
-* RAG Systems
-* Freelance Consulting
-* Startup Collaborations
-* Music Production and Composition
 
 ---
 
 > I automate things because clicking the same button twice feels inefficient.
 
 ---
-
-<div align="center">
-
-### Building AI Systems • Automating Workflows • Shipping Products 🚀
 
 </div>
 
