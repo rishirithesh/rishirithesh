@@ -25,7 +25,7 @@
 
 🏡 Based out of **Kasaragod, Kerala**
 
-🚀 Exploring **Entrepreneurship**, **AI Products**, and **Mutli-Agent Architectures**
+🚀 Exploring **Entrepreneurship**, **AI Products**, **Type-Racing** and **Racquet Spoorts**
 
 ---
 # ⚡ Technologies
